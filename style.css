@@ -1,0 +1,46 @@
+.navBar{
+    background-color:black;
+    overflow:hidden;
+}
+.navBar a {
+    font-family: "Graduate", sans-serif;
+    font-size:17px;
+    color:white;
+    text-align:center;
+    float:center;
+    padding:16px 20px;
+}
+
+.navBar a:hover{
+    color:DodgerBlue;
+}
+.navBar a:active{
+    color:DarkSlateGrey;
+}
+
+.jumbotron{
+    text-align:center;
+    color:white;
+}
+
+.jumboh1{
+    background-image: url("http://images.unsplash.com/photo-1522865080725-2a9ea1fcb94e?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max");
+    background-size: cover;
+    overflow:hidden;
+    background-repeat: no-repeat;
+    font-size:50px;
+}
+
+
+body {
+    background-color:DarkSlateBlue;
+}
+
+.line {
+    color:;
+}
+
+.image {
+    width:50%;
+    float:right;
+}
